@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Storage System</string>
+    <string name="summary">Summary</string>
+    <string name="delivered">Delivered</string>
+    <string name="trashed">Trashed</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="pending">Pending</string>
+    <string name="sales">Sales</string>
+    <string name="waste">Waste</string>
+    <string name="revenue">Revenue</string>
+    <string name="_0_0">0.0</string>
+    <string name="recent_orders">Recent Orders</string>
+    <string name="order_id_format">#%1$s</string>
+    <string name="dollar">$%1$s</string>
+    <string name="dollar_minus">-$%1$s</string>
+    <string name="order_details">Order Details</string>
+    <string name="item_name">Item Name</string>
+    <string name="price">Price</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="shelf">Shelf</string>
+    <string name="ideal_shelf">Ideal Shelf</string>
+    <string name="destination">Destination</string>
+    <string name="order_status">Order Status</string>
+    <string name="lets_start">Let\'s Start</string>
+    <string name="whoops">Whoops!!</string>
+    <string name="no_internet">No Internet connection was found.\nCheck your connection or try again.</string>
+    <string name="try_again">Try Again</string>
+    <string name="welcome">Welcome to City Storage System</string>
+    <string name="description">This app manages the production and fulfillment of online food orders, processing and displaying numerous order events such as order placement, preparation, and delivery for cooks, delivery drivers, and in-house engineers.</string>
+</resources>
